@@ -22,14 +22,6 @@ body{
     font-family: tt-m;
     src: url("../font-Family/TTNorms-Medium.otf");
 }
-@font-face{
-    font-family: tt-b;
-    src: url("../font-Family/TTNorms-Bold.otf");
-}
-@font-face{
-    font-family: tt-exb;
-    src: url("../font-Family/TTNorms-ExtraBold.otf");
-}
 
 /* headings  */
 h1,
