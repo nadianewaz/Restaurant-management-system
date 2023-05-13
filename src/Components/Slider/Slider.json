@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/2325446/pexels-photo-2325446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "delectus aut autem"
+     
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/895254/pexels-photo-895254.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "quis ut nam facilis et officia qui"
+      
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/2734521/pexels-photo-2734521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "fugiat veniam minus"
+      
+    }
+]

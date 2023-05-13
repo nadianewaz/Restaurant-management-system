@@ -1,0 +1,26 @@
+.nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    /* background: #bbd4ed; */
+    /* background: #1dc6ad; */
+    border-bottom: 1px solid #282f41;
+    margin: 0px;
+}
+.nav ul li {
+    margin: 20px;
+    font-size: 16px;
+    line-height: 32px;
+    transition: all 0.5s;
+    
+}
+/* .nav ul li :hover {
+    color: #fff;
+} */
+
+.nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #282f41;
+    font-weight: 700;
+}
