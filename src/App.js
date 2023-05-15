@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Home from './Components/Home/Home';
+import { Typography } from '@mui/material';
 import {
   BrowserRouter,
   Routes,
@@ -20,7 +21,8 @@ function App() {
   return (
     <>
     {/* <Home></Home> */}
-
+    
+    <Typography></Typography>
     <BrowserRouter>
     <Routes>
       <Route path='/' element={<Home/>}></Route>

@@ -1,11 +1,14 @@
-import React, {  useEffect, useState } from 'react';
+import React, { } from 'react';
 import Banner from '../Banner/Banner';
 import Header from '../Header/Header';
 import Carousel from 'react-material-ui-carousel';
 
-import { Typography } from '@mui/material';
 
-                  
+
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
+              
 
 const Home = () => {
 
@@ -14,6 +17,7 @@ const Home = () => {
     return (
         <>
         <Typography></Typography>
+        {/* <FontAwesomeIcon icon={faEnvelope} /> */}
         <Header></Header>
         <Banner>
             <Carousel></Carousel>
